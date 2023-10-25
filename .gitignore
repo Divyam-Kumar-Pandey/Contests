@@ -1,0 +1,4 @@
+.gitignore
+*.exe
+input.txt
+Problem1883C.cpp
